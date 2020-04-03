@@ -1,0 +1,4 @@
+client\Client.class
+client\Main.class
+Utils\UpperCaseFilterWriter.class
+server\Server.class
